@@ -9,3 +9,4 @@ else {
 let x=4;
 let y=9;
 let c=x>y?(x-y):(x+y)
+console.log(c)
